@@ -1,0 +1,878 @@
+level_0,level_1,Name,join_artists,Score,Song_top,Song_attr
+10,191,1.0,1.0,2.0,21 Savage - 1.5,21 Savage - 1.5
+19,205,1.0,1.0,2.0,21 Savage - Monster,21 Savage - monster
+32,232,1.0,1.0,2.0,5 Seconds Of Summer - Want You Back,5 Seconds of Summer - Want You Back
+33,233,1.0,1.0,2.0,5 Seconds Of Summer - Youngblood,5 Seconds of Summer - Youngblood
+36,255,1.0,1.0,2.0,6ix9ine - BEBE,6ix9ine - BEBE
+38,261,1.0,1.0,2.0,6ix9ine - FEFE,6ix9ine - FEFE
+41,263,1.0,1.0,2.0,6ix9ine - KIKA,6ix9ine - KIKA
+43,260,1.0,1.0,2.0,6ix9ine - MAMA,6ix9ine - MAMA
+45,257,1.0,1.0,2.0,6ix9ine - STOOPID,6ix9ine - STOOPID
+46,258,1.0,1.0,2.0,6ix9ine - TATI,6ix9ine - TATI
+48,254,1.0,1.0,2.0,6ix9ine - WAKA,6ix9ine - WAKA
+49,259,1.0,1.0,2.0,6ix9ine - KEKE,6ix9ine - KEKE
+54,297,1.0,1.0,2.0,A Boogie Wit da Hoodie - Look Back At It,A Boogie Wit da Hoodie - Look Back at It
+69,378,1.0,1.0,2.0,AJR - Burn The House Down,AJR - Burn The House Down
+99,769,1.0,1.0,2.0,Ariana Grande - Breathin,Ariana Grande - breathin
+102,770,1.0,1.0,2.0,Ariana Grande - Everytime,Ariana Grande - everytime
+118,758,1.0,1.0,2.0,Ariana Grande - R.E.M,Ariana Grande - R.E.M
+120,792,1.0,1.0,2.0,Ariana Grande - Sweetener,Ariana Grande - sweetener
+139,1149,1.0,1.0,2.0,Bad Wolves - Zombie,Bad Wolves - Zombie
+140,1210,1.0,1.0,2.0,Bazzi - Beautiful,Bazzi - Beautiful
+144,1251,1.0,1.0,2.0,Bebe Rexha - I'm A Mess,Bebe Rexha - I'm a Mess
+222,1561,1.0,1.0,2.0,Brett Young - Here Tonight,Brett Young - Here Tonight
+245,1752,1.0,1.0,2.0,Calboy - Envy Me,Calboy - Envy Me
+258,1793,1.0,1.0,2.0,Camila Cabello - Consequences,Camila Cabello - Consequences
+264,1828,1.0,1.0,2.0,Cardi B - Be Careful,Cardi B - Be Careful
+266,1829,1.0,1.0,2.0,Cardi B - Bickenhead,Cardi B - Bickenhead
+269,1831,1.0,1.0,2.0,Cardi B - Get Up 10,Cardi B - Get Up 10
+271,1832,1.0,1.0,2.0,Cardi B - Money,Cardi B - Money
+272,1833,1.0,1.0,2.0,Cardi B - Money Bag,Cardi B - Money Bag
+275,1835,1.0,1.0,2.0,Cardi B - Thru Your Phone,Cardi B - Thru Your Phone
+276,1820,1.0,1.0,2.0,Cardi B - I Like It,Cardi B - I Like It
+278,1827,1.0,1.0,2.0,Cardi B - She Bad,Cardi B - She Bad
+289,1858,1.0,1.0,2.0,Carrie Underwood - The Champion,Carrie Underwood - The Champion
+292,1920,1.0,1.0,2.0,Chance The Rapper - I Might Need Security,Chance the Rapper - I Might Need Security
+299,1944,1.0,1.0,2.0,Charlie Puth - The Way I Am,Charlie Puth - The Way I Am
+305,1974,1.0,1.0,2.0,Childish Gambino - Feels Like Summer,Childish Gambino - Feels Like Summer
+308,1979,1.0,1.0,2.0,Childish Gambino - Summertime Magic,Childish Gambino - Summertime Magic
+309,1982,1.0,1.0,2.0,Childish Gambino - This Is America,Childish Gambino - This Is America
+345,2134,1.0,1.0,2.0,Ciara - Level Up,Ciara - Level Up
+346,2151,1.0,1.0,2.0,City Girls - Act Up,City Girls - Act Up
+354,2226,1.0,1.0,2.0,Cole Swindell - Break Up In The End,Cole Swindell - Break Up in the End
+372,2362,1.0,1.0,2.0,DJ Khaled - No Brainer,DJ Khaled - No Brainer
+392,2429,1.0,1.0,2.0,Daddy Yankee - Dura,Daddy Yankee - Dura
+397,2458,1.0,1.0,2.0,Dan + Shay - All To Myself,Dan + Shay - All To Myself
+401,2467,1.0,1.0,2.0,Dan + Shay - Speechless,Dan + Shay - Speechless
+402,2469,1.0,1.0,2.0,Dan + Shay - Tequila,Dan + Shay - Tequila
+419,2577,1.0,1.0,2.0,Dean Lewis - Be Alright,Dean Lewis - Be Alright
+423,2641,1.0,1.0,2.0,Demi Lovato - Sober,Demi Lovato - Sober
+432,2686,1.0,1.0,2.0,Dierks Bentley - Burning Man,Dierks Bentley - Burning Man
+435,2693,1.0,1.0,2.0,"Dierks Bentley - Woman, Amen","Dierks Bentley - Woman, Amen"
+445,2839,1.0,1.0,2.0,Drake - 8 Out Of 10,Drake - 8 Out Of 10
+450,2844,1.0,1.0,2.0,Drake - Blue Tint,Drake - Blue Tint
+452,2846,1.0,1.0,2.0,Drake - Can't Take A Joke,Drake - Can’t Take A Joke
+458,2850,1.0,1.0,2.0,Drake - Elevate,Drake - Elevate
+459,2851,1.0,1.0,2.0,Drake - Emotionless,Drake - Emotionless
+465,2855,1.0,1.0,2.0,Drake - Finesse,Drake - Finesse
+470,2858,1.0,1.0,2.0,Drake - God's Plan,Drake - God's Plan
+475,2862,1.0,1.0,2.0,Drake - I'm Upset,Drake - I'm Upset
+477,2863,1.0,1.0,2.0,Drake - In My Feelings,Drake - In My Feelings
+479,2864,1.0,1.0,2.0,Drake - Jaded,Drake - Jaded
+488,2871,1.0,1.0,2.0,Drake - Mob Ties,Drake - Mob Ties
+490,2872,1.0,1.0,2.0,Drake - Nice For What,Drake - Nice For What
+493,2874,1.0,1.0,2.0,Drake - Nonstop,Drake - Nonstop
+499,2878,1.0,1.0,2.0,Drake - Peak,Drake - Peak
+506,2882,1.0,1.0,2.0,Drake - Sandra's Rose,Drake - Sandra’s Rose
+512,2886,1.0,1.0,2.0,Drake - Summer Games,Drake - Summer Games
+514,2889,1.0,1.0,2.0,Drake - Survival,Drake - Survival
+517,2891,1.0,1.0,2.0,Drake - That's How You Feel,Drake - That’s How You Feel
+540,2928,1.0,1.0,2.0,Dua Lipa - Kiss And Make Up,Dua Lipa - Kiss and Make Up
+565,3067,1.0,1.0,2.0,Eli Young Band - Love Ain't,Eli Young Band - Love Ain't
+567,3091,1.0,1.0,2.0,Ella Mai - Shot Clock,Ella Mai - Shot Clock
+568,3092,1.0,1.0,2.0,Ella Mai - Trip,Ella Mai - Trip
+573,3126,1.0,1.0,2.0,Eminem - Fall,Eminem - Fall
+575,3127,1.0,1.0,2.0,Eminem - Greatest,Eminem - Greatest
+576,3128,1.0,1.0,2.0,Eminem - Kamikaze,Eminem - Kamikaze
+577,3129,1.0,1.0,2.0,Eminem - Killshot,Eminem - Killshot
+580,3130,1.0,1.0,2.0,Eminem - Normal,Eminem - Normal
+584,3132,1.0,1.0,2.0,Eminem - Stepping Stone,Eminem - Stepping Stone
+585,3133,1.0,1.0,2.0,Eminem - The Ringer,Eminem - The Ringer
+594,3162,1.0,1.0,2.0,Eric Church - Desperate Man,Eric Church - Desperate Man
+599,3170,1.0,1.0,2.0,Eric Church - Some Of It,Eric Church - Some Of It
+620,3370,1.0,1.0,2.0,Flipp Dinero - Leave Me Alone,Flipp Dinero - Leave Me Alone
+681,3518,1.0,1.0,2.0,Future - Astronauts,Future - Astronauts
+682,3519,1.0,1.0,2.0,Future - Fine China,Future - Fine China
+710,3843,1.0,1.0,2.0,Gucci Mane - Wake Up In The Sky,Gucci Mane - Wake Up in the Sky
+733,3999,1.0,1.0,2.0,Halsey - Without Me,Halsey - Without Me
+746,4231,1.0,1.0,2.0,Imagine Dragons - Bad Liar,Imagine Dragons - Bad Liar
+748,4240,1.0,1.0,2.0,Imagine Dragons - Natural,Imagine Dragons - Natural
+756,4341,1.0,1.0,2.0,J. Cole - ATM,J. Cole - ATM
+768,4349,1.0,1.0,2.0,J. Cole - KOD,J. Cole - KOD
+769,4350,1.0,1.0,2.0,J. Cole - Kevin's Heart,J. Cole - Kevin’s Heart
+771,4353,1.0,1.0,2.0,J. Cole - Motiv8,J. Cole - Motiv8
+774,4355,1.0,1.0,2.0,J. Cole - Photograph,J. Cole - Photograph
+790,4433,1.0,1.0,2.0,Jacquees - You,Jacquees - You
+801,4506,1.0,1.0,2.0,Janelle Monae - Make Me Feel,Janelle Monáe - Make Me Feel
+808,4520,1.0,1.0,2.0,Jason Aldean - Girl Like You,Jason Aldean - Girl Like You
+811,4523,1.0,1.0,2.0,Jason Aldean - Rearview Town,Jason Aldean - Rearview Town
+814,4526,1.0,1.0,2.0,Jason Aldean - You Make It Easy,Jason Aldean - You Make It Easy
+820,4541,1.0,1.0,2.0,Jason Mraz - Have It All,Jason Mraz - Have It All
+823,4598,1.0,1.0,2.0,Jennifer Lopez - Dinero,Jennifer Lopez - Dinero
+832,4674,1.0,1.0,2.0,Jimmie Allen - Best Shot,Jimmie Allen - Best Shot
+854,4882,1.0,1.0,2.0,Joyner Lucas - Stranger Things,Joyner Lucas - Stranger Things
+860,4944,1.0,1.0,2.0,Juice WRLD - Lean Wit Me,Juice WRLD - Lean Wit Me
+861,4945,1.0,1.0,2.0,Juice WRLD - Legends,Juice WRLD - Legends
+863,4950,1.0,1.0,2.0,Juice WRLD - Make It Back,Juice WRLD - Make It Back
+892,5106,1.0,1.0,2.0,KIDS SEE GHOSTS - 4th Dimension,KIDS SEE GHOSTS - 4th Dimension
+893,5110,1.0,1.0,2.0,KIDS SEE GHOSTS - Cudi Montage,KIDS SEE GHOSTS - Cudi Montage
+894,5107,1.0,1.0,2.0,KIDS SEE GHOSTS - Feel The Love,KIDS SEE GHOSTS - Feel The Love
+895,5111,1.0,1.0,2.0,KIDS SEE GHOSTS - Fire,KIDS SEE GHOSTS - Fire
+897,5112,1.0,1.0,2.0,KIDS SEE GHOSTS - Reborn,KIDS SEE GHOSTS - Reborn
+909,5205,1.0,1.0,2.0,Kanye West - All Mine,Kanye West - All Mine
+914,5198,1.0,1.0,2.0,Kanye West - Ghost Town,Kanye West - Ghost Town
+915,5218,1.0,1.0,2.0,Kanye West - I Thought About Killing You,Kanye West - I Thought About Killing You
+916,5222,1.0,1.0,2.0,Kanye West - No Mistakes,Kanye West - No Mistakes
+920,5228,1.0,1.0,2.0,Kanye West - Violent Crimes,Kanye West - Violent Crimes
+922,5199,1.0,1.0,2.0,Kanye West - Wouldn't Leave,Kanye West - Wouldn't Leave
+923,5231,1.0,1.0,2.0,Kanye West - Yikes,Kanye West - Yikes
+927,5255,1.0,1.0,2.0,Katy Perry - Cozy Little Christmas,Katy Perry - Cozy Little Christmas
+976,5346,1.0,1.0,2.0,Kenny Chesney - Get Along,Kenny Chesney - Get Along
+984,5363,1.0,1.0,2.0,Kevin Gates - Change Lanes,Kevin Gates - Change Lanes
+989,5406,1.0,1.0,2.0,Khalid - Better,Khalid - Better
+995,5421,1.0,1.0,2.0,Khalid - Vertigo,Khalid - Vertigo
+1001,5393,1.0,1.0,2.0,Khalid - OTW,Khalid - OTW
+1011,5532,1.0,1.0,2.0,Kodak Black - Calling My Spirit,Kodak Black - Calling My Spirit
+1017,5541,1.0,1.0,2.0,"Kodak Black - If I'm Lyin, I'm Flyin","Kodak Black - If I'm Lyin', I'm Flyin'"
+1022,5550,1.0,1.0,2.0,Kodak Black - Testimony,Kodak Black - Testimony
+1027,5617,1.0,1.0,2.0,Kygo - Remind Me To Forget,Kygo - Remind Me to Forget
+1029,5608,1.0,1.0,2.0,Kygo - Born To Be Yours,Kygo - Born To Be Yours
+1034,5701,1.0,1.0,2.0,Lady Gaga - Always Remember Us This Way,Lady Gaga - Always Remember Us This Way
+1041,5698,1.0,1.0,2.0,Lady Gaga - Shallow,Lady Gaga - Shallow
+1047,5773,1.0,1.0,2.0,Lauren Daigle - You Say,Lauren Daigle - You Say
+1053,5872,1.0,1.0,2.0,Lewis Capaldi - Someone You Loved,Lewis Capaldi - Someone You Loved
+1062,5900,1.0,1.0,2.0,Lil Baby - Life Goes On,Lil Baby - Life Goes On
+1065,5917,1.0,1.0,2.0,Lil Baby - Pure Cocaine,Lil Baby - Pure Cocaine
+1067,5918,1.0,1.0,2.0,Lil Baby - Southside,Lil Baby - Southside
+1070,5896,1.0,1.0,2.0,Lil Baby - Yes Indeed,Lil Baby - Yes Indeed
+1079,5970,1.0,1.0,2.0,Lil Mosey - Kamikaze,Lil Mosey - Kamikaze
+1080,5972,1.0,1.0,2.0,Lil Mosey - Noticed,Lil Mosey - Noticed
+1101,6124,1.0,1.0,2.0,Lil Uzi Vert - New Patek,Lil Uzi Vert - New Patek
+1112,6160,1.0,1.0,2.0,Lil Wayne - Can't Be Broken,Lil Wayne - Can't Be Broken
+1114,6161,1.0,1.0,2.0,Lil Wayne - Dedicate,Lil Wayne - Dedicate
+1120,6163,1.0,1.0,2.0,Lil Wayne - Let It All Work Out,Lil Wayne - Let It All Work Out
+1122,6164,1.0,1.0,2.0,Lil Wayne - Mess,Lil Wayne - Mess
+1130,6155,1.0,1.0,2.0,Lil Wayne - Uproar,Lil Wayne - Uproar
+1135,6178,1.0,1.0,2.0,Lil Yachty - 66,Lil Yachty - 66
+1151,6270,1.0,1.0,2.0,Logic - 44 More,Logic - 44 More
+1159,6267,1.0,1.0,2.0,Logic - Indica Badu,Logic - Indica Badu
+1161,6282,1.0,1.0,2.0,Logic - Midnight,Logic - Midnight
+1167,6265,1.0,1.0,2.0,Logic - Everyday,Logic - Everyday
+1177,6432,1.0,1.0,2.0,Lukas Graham - Love Someone,Lukas Graham - Love Someone
+1190,6456,1.0,1.0,2.0,Luke Combs - Beautiful Crazy,Luke Combs - Beautiful Crazy
+1194,6478,1.0,1.0,2.0,Luke Combs - Must've Never Met You,Luke Combs - Must've Never Met You
+1202,6597,1.0,1.0,2.0,Mac Miller - Come Back To Earth,Mac Miller - Come Back to Earth
+1203,6604,1.0,1.0,2.0,Mac Miller - Hurt Feelings,Mac Miller - Hurt Feelings
+1204,6615,1.0,1.0,2.0,Mac Miller - Self Care,Mac Miller - Self Care
+1234,6809,1.0,1.0,2.0,Maroon 5 - Girls Like You,Maroon 5 - Girls Like You
+1244,6817,1.0,1.0,2.0,Marshmello - Happier,Marshmello - Happier
+1287,6941,1.0,1.0,2.0,Megan Thee Stallion - Big Ole Freak,Megan Thee Stallion - Big Ole Freak
+1292,6959,1.0,1.0,2.0,Meghan Trainor - No Excuses,Meghan Trainor - No Excuses
+1302,7025,1.0,1.0,2.0,Michael Ray - One That Got Away,Michael Ray - One That Got Away
+1319,7059,1.0,1.0,2.0,Migos - Narcos,Migos - Narcos
+1320,7054,1.0,1.0,2.0,Migos - Notice Me,Migos - Notice Me
+1324,7048,1.0,1.0,2.0,Migos - Walk It Talk It,Migos - Walk It Talk It
+1339,7134,1.0,1.0,2.0,Mitchell Tenpenny - Drunk Me,Mitchell Tenpenny - Drunk Me
+1342,7215,1.0,1.0,2.0,Morgan Wallen - Whiskey Glasses,Morgan Wallen - Whiskey Glasses
+1369,7516,1.0,1.0,2.0,Nicki Minaj - Barbie Dreams,Nicki Minaj - Barbie Dreams
+1370,7517,1.0,1.0,2.0,Nicki Minaj - Barbie Tingz,Nicki Minaj - Barbie Tingz
+1373,7519,1.0,1.0,2.0,Nicki Minaj - Good Form,Nicki Minaj - Good Form
+1425,7780,1.0,1.0,2.0,Ozuna - Unica,Ozuna - Unica
+1428,7766,1.0,1.0,2.0,Ozuna - Vaina Loca,Ozuna - Vaina Loca
+1430,7782,1.0,1.0,2.0,P!nk - A Million Dreams,P!nk - A Million Dreams
+1443,7826,1.0,1.0,2.0,"Panic! At The Disco - Hey Look Ma, I Made It","Panic! At The Disco - Hey Look Ma, I Made It"
+1444,7827,1.0,1.0,2.0,Panic! At The Disco - High Hopes,Panic! At The Disco - High Hopes
+1468,8152,1.0,1.0,2.0,Post Malone - 92 Explorer,Post Malone - 92 Explorer
+1470,8155,1.0,1.0,2.0,Post Malone - Better Now,Post Malone - Better Now
+1471,8157,1.0,1.0,2.0,Post Malone - Blame It On Me,Post Malone - Blame It On Me
+1478,8172,1.0,1.0,2.0,Post Malone - Otherside,Post Malone - Otherside
+1479,8173,1.0,1.0,2.0,Post Malone - Over Now,Post Malone - Over Now
+1480,8174,1.0,1.0,2.0,Post Malone - Paranoid,Post Malone - Paranoid
+1485,8178,1.0,1.0,2.0,Post Malone - Stay,Post Malone - Stay
+1486,8179,1.0,1.0,2.0,Post Malone - Sugar Wraith,Post Malone - Sugar Wraith
+1487,8180,1.0,1.0,2.0,Post Malone - Takin' Shots,Post Malone - Takin' Shots
+1490,8186,1.0,1.0,2.0,Post Malone - Zack And Codeine,Post Malone - Zack And Codeine
+1494,8217,1.0,1.0,2.0,Pusha T - If You Know You Know,Pusha T - If You Know You Know
+1496,8218,1.0,1.0,2.0,Pusha T - The Games We Play,Pusha T - The Games We Play
+1505,8239,1.0,1.0,2.0,Queen Naija - Karma,Queen Naija - Karma
+1526,8500,1.0,1.0,2.0,Rich The Kid - Plug Walk,Rich The Kid - Plug Walk
+1540,8589,1.0,1.0,2.0,Roddy Ricch - Die Young,Roddy Ricch - Die Young
+1550,8747,1.0,1.0,2.0,SHAED - Trampoline,SHAED - Trampoline
+1570,8924,1.0,1.0,2.0,Scotty McCreery - This Is It,Scotty McCreery - This Is It
+1572,8960,1.0,1.0,2.0,Selena Gomez - Back To You,Selena Gomez - Back To You
+1586,9019,1.0,1.0,2.0,Shawn Mendes - In My Blood,Shawn Mendes - In My Blood
+1594,9021,1.0,1.0,2.0,Shawn Mendes - Lost In Japan,Shawn Mendes - Lost In Japan
+1603,9145,1.0,1.0,2.0,Ski Mask The Slump God - Faucet Failure,Ski Mask The Slump God - Faucet Failure
+1604,9146,1.0,1.0,2.0,Ski Mask The Slump God - Foot Fungus,Ski Mask The Slump God - Foot Fungus
+1612,9301,1.0,1.0,2.0,Steve Aoki - Waste It On Me,Steve Aoki - Waste It On Me
+1614,9366,1.0,1.0,2.0,Sugarland - Babe,Sugarland - Babe
+1621,9476,1.0,1.0,2.0,TakeOff - Casper,Takeoff - Casper
+1622,9477,1.0,1.0,2.0,TakeOff - Last Memory,Takeoff - Last Memory
+1655,9708,1.0,1.0,2.0,The Chainsmokers - Sick Boy,The Chainsmokers - Sick Boy
+1658,9701,1.0,1.0,2.0,The Chainsmokers - This Feeling,The Chainsmokers - This Feeling
+1669,9908,1.0,1.0,2.0,The Weeknd - Call Out My Name,The Weeknd - Call Out My Name
+1674,9890,1.0,1.0,2.0,The Weeknd - Hurt You,The Weeknd - Hurt You
+1676,9891,1.0,1.0,2.0,The Weeknd - I Was Never There,The Weeknd - I Was Never There
+1684,9926,1.0,1.0,2.0,The Weeknd - Privilege,The Weeknd - Privilege
+1697,9939,1.0,1.0,2.0,The Weeknd - Try Me,The Weeknd - Try Me
+1698,9940,1.0,1.0,2.0,The Weeknd - Wasted Times,The Weeknd - Wasted Times
+1711,10023,1.0,1.0,2.0,Tiesto - Jackie Chan,Tiësto - Jackie Chan
+1746,10173,1.0,1.0,2.0,Trippie Redd - 1400 / 999 Freestyle,Trippie Redd - 1400 / 999 Freestyle
+1748,10200,1.0,1.0,2.0,Trippie Redd - Love Scars 3,Trippie Redd - Love Scars 3
+1749,10174,1.0,1.0,2.0,Trippie Redd - Negative Energy,Trippie Redd - Negative Energy
+1750,10212,1.0,1.0,2.0,Trippie Redd - Taking A Walk,Trippie Redd - Taking A Walk
+1751,10216,1.0,1.0,2.0,Trippie Redd - Topanga,Trippie Redd - Topanga
+1752,10217,1.0,1.0,2.0,Trippie Redd - Toxic Waste,Trippie Redd - Toxic Waste
+1754,10233,1.0,1.0,2.0,Troye Sivan - My My My!,Troye Sivan - My My My!
+1765,10386,1.0,1.0,2.0,Tyler - OKRA,"Tyler, The Creator - OKRA"
+1788,10704,1.0,1.0,2.0,XXXTENTACION - BAD!,XXXTENTACION - BAD!
+1790,10732,1.0,1.0,2.0,XXXTENTACION - Changes,XXXTENTACION - changes
+1795,10711,1.0,1.0,2.0,XXXTENTACION - Guardian Angel,XXXTENTACION - Guardian angel
+1796,10713,1.0,1.0,2.0,XXXTENTACION - Hope,XXXTENTACION - Hope
+1801,10720,1.0,1.0,2.0,XXXTENTACION - Moonlight,XXXTENTACION - Moonlight
+1846,10938,1.0,1.0,2.0,YoungBoy Never Broke Again - Outside Today,YoungBoy Never Broke Again - Outside Today
+1847,10939,1.0,1.0,2.0,YoungBoy Never Broke Again - Overdose,YoungBoy Never Broke Again - Overdose
+1850,10958,1.0,1.0,2.0,YoungBoy Never Broke Again - Valuable Pain,YoungBoy Never Broke Again - Valuable Pain
+1859,11049,1.0,1.0,2.0,Zara Larsson - Ruin My Life,Zara Larsson - Ruin My Life
+1872,11058,1.0,1.0,2.0,Zedd - Happy Now,Zedd - Happy Now
+1876,11064,1.0,1.0,2.0,Zedd - The Middle,Zedd - The Middle
+1,151,1.0,1.0,2.0,2 Chainz - 4 AM,2 Chainz - 4 AM
+3,153,1.0,1.0,2.0,2 Chainz - It's A Vibe,2 Chainz - It's A Vibe
+14,193,1.0,1.0,2.0,21 Savage - Bank Account,21 Savage - Bank Account
+24,186,1.0,1.0,2.0,21 Savage - Ghostface Killers,21 Savage - Ghostface Killers
+25,188,1.0,1.0,2.0,21 Savage - Mad Stalkers,21 Savage - Mad Stalkers
+26,185,1.0,1.0,2.0,21 Savage - Rap Saved Me,21 Savage - Rap Saved Me
+55,302,1.0,1.0,2.0,A Boogie Wit da Hoodie - No Promises,A Boogie Wit da Hoodie - No Promises
+56,304,1.0,1.0,2.0,A Boogie Wit da Hoodie - Say A',A Boogie Wit da Hoodie - Say A'
+65,325,1.0,1.0,2.0,A$AP Ferg - Plain Jane,A$AP Ferg - Plain Jane
+123,733,1.0,1.0,2.0,Ariana Grande - Beauty And The Beast,Ariana Grande - Beauty and the Beast
+134,986,1.0,1.0,2.0,BTS - DNA,BTS - DNA
+170,1349,1.0,1.0,2.0,Big Sean - Jump Out The Window,Big Sean - Jump Out The Window
+173,1336,1.0,1.0,2.0,Big Sean - No Favors,Big Sean - No Favors
+177,1344,1.0,1.0,2.0,Big Sean - Sacrifices,Big Sean - Sacrifices
+194,1396,1.0,1.0,2.0,Billie Eilish - idontwannabeyouanymore,Billie Eilish - idontwannabeyouanymore
+205,1457,1.0,1.0,2.0,Blake Shelton - I Lived It,Blake Shelton - I Lived It
+206,1458,1.0,1.0,2.0,Blake Shelton - I'll Name The Dogs,Blake Shelton - I'll Name the Dogs
+220,1557,1.0,1.0,2.0,Brett Eldredge - The Long Way,Brett Eldredge - The Long Way
+224,1564,1.0,1.0,2.0,Brett Young - Like I Loved You,Brett Young - Like I Loved You
+225,1565,1.0,1.0,2.0,Brett Young - Mercy,Brett Young - Mercy
+236,1644,1.0,1.0,2.0,Bryce Vine - Drew Barrymore,Bryce Vine - Drew Barrymore
+241,1670,1.0,1.0,2.0,Bryson Tiller - Run Me Dry,Bryson Tiller - Run Me Dry
+259,1795,1.0,1.0,2.0,Camila Cabello - Crying In The Club,Camila Cabello - Crying in the Club
+261,1800,1.0,1.0,2.0,Camila Cabello - Never Be The Same,Camila Cabello - Never Be the Same
+301,1955,1.0,1.0,2.0,Chase Rice - Eyes On You,Chase Rice - Eyes On You
+310,1986,1.0,1.0,2.0,China Anne McClain - What's My Name,China Anne McClain - What's My Name
+319,2012,1.0,1.0,2.0,Chris Brown - Privacy,Chris Brown - Privacy
+320,2013,1.0,1.0,2.0,Chris Brown - Questions,Chris Brown - Questions
+321,2014,1.0,1.0,2.0,Chris Brown - Tempo,Chris Brown - Tempo
+327,2021,1.0,1.0,2.0,Chris Janson - Drunk Girl,Chris Janson - Drunk Girl
+328,2022,1.0,1.0,2.0,Chris Janson - Fix A Drink,Chris Janson - Fix a Drink
+332,2040,1.0,1.0,2.0,Chris Stapleton - Broken Halos,Chris Stapleton - Broken Halos
+333,2045,1.0,1.0,2.0,Chris Stapleton - Either Way,Chris Stapleton - Either Way
+334,2056,1.0,1.0,2.0,Chris Stapleton - Millionaire,Chris Stapleton - Millionaire
+340,2095,1.0,1.0,2.0,Chris Young - Losing Sleep,Chris Young - Losing Sleep
+405,2532,1.0,1.0,2.0,Darius Rucker - For The First Time,Darius Rucker - For The First Time
+409,2545,1.0,1.0,2.0,David Guetta - 2U,David Guetta - 2U
+418,2574,1.0,1.0,2.0,DeJ Loaf - No Fear,DeJ Loaf - No Fear
+424,2642,1.0,1.0,2.0,Demi Lovato - Sorry Not Sorry,Demi Lovato - Sorry Not Sorry
+425,2645,1.0,1.0,2.0,Demi Lovato - Tell Me You Love Me,Demi Lovato - Tell Me You Love Me
+426,2651,1.0,1.0,2.0,Dennis Lloyd - Nevermind,Dennis Lloyd - Nevermind
+443,2828,1.0,1.0,2.0,Drake - 4422,Drake - 4422
+449,2843,1.0,1.0,2.0,Drake - Blem,Drake - Blem
+451,2845,1.0,1.0,2.0,Drake - Can't Have Everything,Drake - Can't Have Everything
+456,2849,1.0,1.0,2.0,Drake - Do Not Disturb,Drake - Do Not Disturb
+467,2857,1.0,1.0,2.0,Drake - Free Smoke,Drake - Free Smoke
+468,2800,1.0,1.0,2.0,Drake - Get It Together,Drake - Get It Together
+472,2859,1.0,1.0,2.0,Drake - Gyalchester,Drake - Gyalchester
+476,2833,1.0,1.0,2.0,Drake - Ice Melts,Drake - Ice Melts
+481,2814,1.0,1.0,2.0,Drake - KMT,Drake - KMT
+486,2869,1.0,1.0,2.0,Drake - Madiba Riddim,Drake - Madiba Riddim
+494,2875,1.0,1.0,2.0,Drake - Nothings Into Somethings,Drake - Nothings Into Somethings
+498,2877,1.0,1.0,2.0,Drake - Passionfruit,Drake - Passionfruit
+500,2825,1.0,1.0,2.0,Drake - Portland,Drake - Portland
+505,2799,1.0,1.0,2.0,Drake - Sacrifices,Drake - Sacrifices
+507,2883,1.0,1.0,2.0,Drake - Signs,Drake - Signs
+516,2890,1.0,1.0,2.0,Drake - Teenage Fever,Drake - Teenage Fever
+538,2942,1.0,1.0,2.0,Dua Lipa - IDGAF,Dua Lipa - IDGAF
+539,2944,1.0,1.0,2.0,Dua Lipa - New Rules,Dua Lipa - New Rules
+544,2960,1.0,1.0,2.0,Dustin Lynch - Small Town Boy,Dustin Lynch - Small Town Boy
+546,2966,1.0,1.0,2.0,Dylan Scott - Hooked,Dylan Scott - Hooked
+548,3000,1.0,1.0,2.0,Easton Corbin - A Girl Like You,Easton Corbin - A Girl Like You
+550,3015,1.0,1.0,2.0,Ed Sheeran - Barcelona,Ed Sheeran - Barcelona
+551,3016,1.0,1.0,2.0,Ed Sheeran - Castle On The Hill,Ed Sheeran - Castle on the Hill
+553,3017,1.0,1.0,2.0,Ed Sheeran - Dive,Ed Sheeran - Dive
+555,3018,1.0,1.0,2.0,Ed Sheeran - Galway Girl,Ed Sheeran - Galway Girl
+556,3019,1.0,1.0,2.0,Ed Sheeran - Happier,Ed Sheeran - Happier
+557,3020,1.0,1.0,2.0,Ed Sheeran - Hearts Don't Break Around Here,Ed Sheeran - Hearts Don't Break Around Here
+559,3023,1.0,1.0,2.0,Ed Sheeran - New Man,Ed Sheeran - New Man
+560,3024,1.0,1.0,2.0,Ed Sheeran - Perfect,Ed Sheeran - Perfect
+561,3026,1.0,1.0,2.0,Ed Sheeran - Shape Of You,Ed Sheeran - Shape of You
+562,3027,1.0,1.0,2.0,Ed Sheeran - Supermarket Flowers,Ed Sheeran - Supermarket Flowers
+563,3028,1.0,1.0,2.0,Ed Sheeran - What Do I Know?,Ed Sheeran - What Do I Know?
+566,3085,1.0,1.0,2.0,Ella Mai - Boo'd Up,Ella Mai - Boo'd Up
+605,3283,1.0,1.0,2.0,Farruko - Krippy Kush,Farruko - Krippy Kush
+635,3423,1.0,1.0,2.0,Foster The People - Sit Next To Me,Foster The People - Sit Next to Me
+636,3440,1.0,1.0,2.0,Frank Ocean - Chanel,Frank Ocean - Chanel
+646,3488,1.0,1.0,2.0,French Montana - Unforgettable,French Montana - Unforgettable
+664,3574,1.0,1.0,2.0,Future - Mask Off,Future - Mask Off
+668,3577,1.0,1.0,2.0,Future - Rent Money,Future - Rent Money
+685,3558,1.0,1.0,2.0,Future - No Cap,Future - No Cap
+723,3952,1.0,1.0,2.0,Hailee Steinfeld - Most Girls,Hailee Steinfeld - Most Girls
+727,3969,1.0,1.0,2.0,Halsey - Bad At Love,Halsey - Bad At Love
+730,3992,1.0,1.0,2.0,Halsey - Not Afraid Anymore,Halsey - Not Afraid Anymore
+731,3993,1.0,1.0,2.0,Halsey - Now Or Never,Halsey - Now Or Never
+732,3964,1.0,1.0,2.0,Halsey - Strangers,Halsey - Strangers
+734,4026,1.0,1.0,2.0,Harry Styles - Sign Of The Times,Harry Styles - Sign of the Times
+735,4028,1.0,1.0,2.0,Harry Styles - Sweet Creature,Harry Styles - Sweet Creature
+739,4149,1.0,1.0,2.0,Huncho Jack - Dubai Shit,Huncho Jack - Dubai Shit
+740,4150,1.0,1.0,2.0,Huncho Jack - Eye 2 Eye,Huncho Jack - Eye 2 Eye
+741,4152,1.0,1.0,2.0,Huncho Jack - Modern Slavery,Huncho Jack - Modern Slavery
+742,4153,1.0,1.0,2.0,Huncho Jack - Motorcycle Patches,Huncho Jack - Motorcycle Patches
+743,4154,1.0,1.0,2.0,Huncho Jack - Saint,Huncho Jack - Saint
+747,4234,1.0,1.0,2.0,Imagine Dragons - Believer,Imagine Dragons - Believer
+751,4247,1.0,1.0,2.0,Imagine Dragons - Thunder,Imagine Dragons - Thunder
+752,4251,1.0,1.0,2.0,Imagine Dragons - Whatever It Takes,Imagine Dragons - Whatever It Takes
+754,4315,1.0,1.0,2.0,J Balvin - Mi Gente,J Balvin - Mi Gente
+778,4377,1.0,1.0,2.0,JAY - 4:44,JAY-Z - 4:44
+779,4376,1.0,1.0,2.0,JAY - Bam,JAY-Z - Bam
+786,4378,1.0,1.0,2.0,JAY - The Story Of O.J.,JAY-Z - The Story of O.J.
+791,4428,1.0,1.0,2.0,Jacquees - At The Club,Jacquees - At The Club
+847,4830,1.0,1.0,2.0,Jordan Davis - Singles You Up,Jordan Davis - Singles You Up
+848,4834,1.0,1.0,2.0,Jordan Davis - Take It From Me,Jordan Davis - Take It From Me
+867,4986,1.0,1.0,2.0,Julia Michaels - Issues,Julia Michaels - Issues
+902,5182,1.0,1.0,2.0,Kane Brown - Found You,Kane Brown - Found You
+904,5184,1.0,1.0,2.0,Kane Brown - Heaven,Kane Brown - Heaven
+926,5253,1.0,1.0,2.0,Katy Perry - Chained To The Rhythm,Katy Perry - Chained To The Rhythm
+930,5252,1.0,1.0,2.0,Katy Perry - Swish Swish,Katy Perry - Swish Swish
+943,5292,1.0,1.0,2.0,Kelly Clarkson - Love So Soft,Kelly Clarkson - Love So Soft
+953,5319,1.0,1.0,2.0,Kendrick Lamar - DNA.,Kendrick Lamar - DNA.
+981,5353,1.0,1.0,2.0,Kesha - Praying,Kesha - Praying
+996,5423,1.0,1.0,2.0,Khalid - Young Dumb & Broke,Khalid - Young Dumb & Broke
+1009,5514,1.0,1.0,2.0,Kip Moore - Last Shot,Kip Moore - Last Shot
+1010,5515,1.0,1.0,2.0,Kip Moore - More Girls Like You,Kip Moore - More Girls Like You
+1019,5545,1.0,1.0,2.0,Kodak Black - Patty Cake,Kodak Black - Patty Cake
+1023,5553,1.0,1.0,2.0,Kodak Black - Transportin',Kodak Black - Transportin'
+1024,5554,1.0,1.0,2.0,Kodak Black - Tunnel Vision,Kodak Black - Tunnel Vision
+1028,5607,1.0,1.0,2.0,Kygo - First Time,Kygo - First Time
+1033,5694,1.0,1.0,2.0,Lady Antebellum - You Look Good,Lady A - You Look Good
+1039,5708,1.0,1.0,2.0,Lady Gaga - The Cure,Lady Gaga - The Cure
+1043,5738,1.0,1.0,2.0,Lana Del Rey - Love,Lana Del Rey - Love
+1050,5810,1.0,1.0,2.0,Lee Brice - Boy,Lee Brice - Boy
+1051,5814,1.0,1.0,2.0,Lee Brice - Rumor,Lee Brice - Rumor
+1056,5885,1.0,1.0,2.0,Liam Payne - Strip That Down,Liam Payne - Strip That Down
+1063,5915,1.0,1.0,2.0,Lil Baby - My Dawg,Lil Baby - My Dawg
+1084,5987,1.0,1.0,2.0,Lil Peep - Awful Things,Lil Peep - Awful Things
+1091,6034,1.0,1.0,2.0,Lil Pump - Gucci Gang,Lil Pump - Gucci Gang
+1094,6044,1.0,1.0,2.0,Lil Skies - Lust,Lil Skies - Lust
+1097,6103,1.0,1.0,2.0,Lil Uzi Vert - Dark Queen,Lil Uzi Vert - Dark Queen
+1098,6109,1.0,1.0,2.0,Lil Uzi Vert - For Real,Lil Uzi Vert - For Real
+1102,6125,1.0,1.0,2.0,Lil Uzi Vert - No Sleep Leak,Lil Uzi Vert - No Sleep Leak
+1104,6136,1.0,1.0,2.0,Lil Uzi Vert - Sauce It Up,Lil Uzi Vert - Sauce It Up
+1109,6148,1.0,1.0,2.0,Lil Uzi Vert - X,Lil Uzi Vert - X
+1134,6166,1.0,1.0,2.0,Lil Xan - Betrayed,Lil Xan - Betrayed
+1152,6258,1.0,1.0,2.0,Logic - Black SpiderMan,Logic - Black SpiderMan
+1156,6274,1.0,1.0,2.0,Logic - Everybody,Logic - Everybody
+1168,6306,1.0,1.0,2.0,Lorde - Green Light,Lorde - Green Light
+1170,6308,1.0,1.0,2.0,Lorde - Liability,Lorde - Liability
+1171,6313,1.0,1.0,2.0,Loren Allred - Never Enough,Loren Allred - Never Enough
+1172,6386,1.0,1.0,2.0,Loud Luxury - Body,Loud Luxury - Body
+1175,6427,1.0,1.0,2.0,Luis Fonsi - Echame La Culpa,Luis Fonsi - Échame La Culpa
+1184,6441,1.0,1.0,2.0,Luke Bryan - Light It Up,Luke Bryan - Light It Up
+1185,6442,1.0,1.0,2.0,Luke Bryan - Most People Are Good,Luke Bryan - Most People Are Good
+1188,6446,1.0,1.0,2.0,"Luke Bryan - Sunrise, Sunburn, Sunset","Luke Bryan - Sunrise, Sunburn, Sunset"
+1189,6447,1.0,1.0,2.0,Luke Bryan - What Makes You Country,Luke Bryan - What Makes You Country
+1196,6495,1.0,1.0,2.0,Luke Combs - When It Rains It Pours,Luke Combs - When It Rains It Pours
+1215,6722,1.0,1.0,2.0,Major Lazer - Know No Better,Major Lazer - Know No Better
+1242,6824,1.0,1.0,2.0,Marshmello - Silence,Marshmello - Silence
+1250,6836,1.0,1.0,2.0,Martin Garrix - Scared To Be Lonely,Martin Garrix - Scared to Be Lonely
+1251,6839,1.0,1.0,2.0,Martin Garrix - There For You,Martin Garrix - There for You
+1315,7058,1.0,1.0,2.0,Migos - Get Right Witcha,Migos - Get Right Witcha
+1332,7101,1.0,1.0,2.0,Miley Cyrus - Malibu,Miley Cyrus - Malibu
+1334,7106,1.0,1.0,2.0,Miley Cyrus - Younger Now,Miley Cyrus - Younger Now
+1350,7371,1.0,1.0,2.0,NF - Let You Down,NF - Let You Down
+1351,7372,1.0,1.0,2.0,NF - Lie,NF - Lie
+1357,7458,1.0,1.0,2.0,Natti Natasha - Criminal,Natti Natasha - Criminal
+1362,7499,1.0,1.0,2.0,Niall Horan - Slow Hands,Niall Horan - Slow Hands
+1364,7502,1.0,1.0,2.0,Niall Horan - Too Much To Ask,Niall Horan - Too Much To Ask
+1368,7503,1.0,1.0,2.0,Nick Jonas - Bom Bidi Bom,Nick Jonas - Bom Bidi Bom
+1381,7513,1.0,1.0,2.0,Nicki Minaj - No Frauds,Nicki Minaj - No Frauds
+1384,7530,1.0,1.0,2.0,Nicky Jam - El Amante,Nicky Jam - El Amante
+1401,7656,1.0,1.0,2.0,Offset - Nightmare,Offset - Nightmare
+1404,7671,1.0,1.0,2.0,Old Dominion - Hotel Key,Old Dominion - Hotel Key
+1406,7674,1.0,1.0,2.0,Old Dominion - No Such Thing As A Broken Heart,Old Dominion - No Such Thing as a Broken Heart
+1409,7680,1.0,1.0,2.0,Old Dominion - Written In The Sand,Old Dominion - Written in the Sand
+1431,7783,1.0,1.0,2.0,P!nk - Beautiful Trauma,P!nk - Beautiful Trauma
+1435,7785,1.0,1.0,2.0,P!nk - What About Us,P!nk - What About Us
+1447,7850,1.0,1.0,2.0,Paramore - Hard Times,Paramore - Hard Times
+1460,8024,1.0,1.0,2.0,Playboi Carti - Magnolia,Playboi Carti - Magnolia
+1467,8129,1.0,1.0,2.0,Portugal. The Man - Feel It Still,Portugal. The Man - Feel It Still
+1521,8375,1.0,1.0,2.0,Rascal Flatts - Yours If You Want It,Rascal Flatts - Yours If You Want It
+1541,8604,1.0,1.0,2.0,Romeo Santos - Bella y Sensual,Romeo Santos - Bella y Sensual
+1543,8607,1.0,1.0,2.0,Romeo Santos - Imitadora,Romeo Santos - Imitadora
+1557,8830,1.0,1.0,2.0,Sam Hunt - Body Like A Back Road,Sam Hunt - Body Like A Back Road
+1561,8866,1.0,1.0,2.0,Sam Smith - Too Good At Goodbyes,Sam Smith - Too Good At Goodbyes
+1573,8962,1.0,1.0,2.0,Selena Gomez - Bad Liar,Selena Gomez - Bad Liar
+1579,8959,1.0,1.0,2.0,Selena Gomez - Wolves,Selena Gomez - Wolves
+1581,8992,1.0,1.0,2.0,Shakira - Me Enamore,Shakira - Me Enamoré
+1589,9031,1.0,1.0,2.0,Shawn Mendes - There's Nothing Holdin' Me Back,Shawn Mendes - There's Nothing Holdin' Me Back
+1599,9098,1.0,1.0,2.0,Sia - Helium,Sia - Helium
+1608,9237,1.0,1.0,2.0,Sofia Carson - Chillin' Like A Villain,Sofia Carson - Chillin' Like a Villain
+1623,9501,1.0,1.0,2.0,Tank - When We,Tank - When We
+1624,9528,1.0,1.0,2.0,Tay - The Race,Tay-K - The Race
+1625,9541,1.0,1.0,2.0,Taylor Swift - ...Ready For It?,Taylor Swift - ...Ready For It?
+1627,9543,1.0,1.0,2.0,Taylor Swift - Call It What You Want,Taylor Swift - Call It What You Want
+1628,9550,1.0,1.0,2.0,Taylor Swift - Delicate,Taylor Swift - Delicate
+1629,9537,1.0,1.0,2.0,Taylor Swift - End Game,Taylor Swift - End Game
+1630,9555,1.0,1.0,2.0,Taylor Swift - Gorgeous,Taylor Swift - Gorgeous
+1631,9562,1.0,1.0,2.0,Taylor Swift - Look What You Made Me Do,Taylor Swift - Look What You Made Me Do
+1652,9706,1.0,1.0,2.0,The Chainsmokers - Paris,The Chainsmokers - Paris
+1661,9694,1.0,1.0,2.0,The Chainsmokers - Something Just Like This,The Chainsmokers - Something Just Like This
+1703,9965,1.0,1.0,2.0,Thomas Rhett - Craving You,Thomas Rhett - Craving You
+1705,9970,1.0,1.0,2.0,Thomas Rhett - Life Changes,Thomas Rhett - Life Changes
+1707,9972,1.0,1.0,2.0,Thomas Rhett - Marry Me,Thomas Rhett - Marry Me
+1708,9975,1.0,1.0,2.0,Thomas Rhett - Sixteen,Thomas Rhett - Sixteen
+1710,9978,1.0,1.0,2.0,Thomas Rhett - Unforgettable,Thomas Rhett - Unforgettable
+1716,10006,1.0,1.0,2.0,Tim McGraw - The Rest Of Our Life,Tim McGraw - The Rest of Our Life
+1744,10160,1.0,1.0,2.0,Trey Songz - Nobody Else But You,Trey Songz - Nobody Else but You
+1772,10524,1.0,1.0,2.0,WALK THE MOON - One Foot,WALK THE MOON - One Foot
+1776,10551,1.0,1.0,2.0,Walker Hayes - You Broke Up With Me,Walker Hayes - You Broke Up with Me
+1789,10705,1.0,1.0,2.0,XXXTENTACION - Carry On,XXXTENTACION - Carry On
+1791,10707,1.0,1.0,2.0,XXXTENTACION - Depression & Obsession,XXXTENTACION - Depression & Obsession
+1793,10708,1.0,1.0,2.0,XXXTENTACION - Everybody Dies In Their Nightmares,XXXTENTACION - Everybody Dies In Their Nightmares
+1799,10716,1.0,1.0,2.0,XXXTENTACION - Jocelyn Flores,XXXTENTACION - Jocelyn Flores
+1804,10723,1.0,1.0,2.0,XXXTENTACION - Revenge,XXXTENTACION - Revenge
+1807,10727,1.0,1.0,2.0,XXXTENTACION - Save Me,XXXTENTACION - Save Me
+1824,10810,1.0,1.0,2.0,Yella Beezy - That's On Me,Yella Beezy - That's On Me
+1845,10934,1.0,1.0,2.0,YoungBoy Never Broke Again - No Smoke,YoungBoy Never Broke Again - No Smoke
+1849,10957,1.0,1.0,2.0,YoungBoy Never Broke Again - Untouchable,YoungBoy Never Broke Again - Untouchable
+1855,11024,1.0,1.0,2.0,Zac Brown Band - My Old Man,Zac Brown Band - My Old Man
+1856,11027,1.0,1.0,2.0,Zac Efron - Rewrite The Stars,Zac Efron - Rewrite The Stars
+1871,11056,1.0,1.0,2.0,Zedd - Stay,Zedd - Stay
+2,146,1.0,1.0,2.0,2 Chainz - Gotta Lotta,2 Chainz - Gotta Lotta
+22,174,1.0,1.0,2.0,21 Savage - No Heart,21 Savage - No Heart
+100,747,1.0,1.0,2.0,Ariana Grande - Dangerous Woman,Ariana Grande - Dangerous Woman
+110,752,1.0,1.0,2.0,Ariana Grande - Into You,Ariana Grande - Into You
+111,735,1.0,1.0,2.0,Ariana Grande - Let Me Love You,Ariana Grande - Let Me Love You
+119,738,1.0,1.0,2.0,Ariana Grande - Side To Side,Ariana Grande - Side To Side
+151,1303,1.0,1.0,2.0,Beyonce - All Night,Beyoncé - All Night
+153,1306,1.0,1.0,2.0,Beyonce - Daddy Lessons,Beyoncé - Daddy Lessons
+155,1307,1.0,1.0,2.0,Beyonce - Formation,Beyoncé - Formation
+158,1308,1.0,1.0,2.0,Beyonce - Hold Up,Beyoncé - Hold Up
+159,1309,1.0,1.0,2.0,Beyonce - Love Drought,Beyoncé - Love Drought
+160,1310,1.0,1.0,2.0,Beyonce - Pray You Catch Me,Beyoncé - Pray You Catch Me
+161,1311,1.0,1.0,2.0,Beyonce - Sandcastles,Beyoncé - Sandcastles
+162,1312,1.0,1.0,2.0,Beyonce - Sorry,Beyoncé - Sorry
+200,1453,1.0,1.0,2.0,Blake Shelton - Came Here To Forget,Blake Shelton - Came Here to Forget
+201,1454,1.0,1.0,2.0,Blake Shelton - Every Time I Hear That Song,Blake Shelton - Every Time I Hear That Song
+207,1459,1.0,1.0,2.0,Blake Shelton - She's Got A Way With Words,Blake Shelton - She's Got a Way with Words
+232,1631,1.0,1.0,2.0,Bruno Mars - 24K Magic,Bruno Mars - 24K Magic
+233,1637,1.0,1.0,2.0,Bruno Mars - That's What I Like,Bruno Mars - That's What I Like
+234,1639,1.0,1.0,2.0,Bruno Mars - Versace On The Floor,Bruno Mars - Versace on the Floor
+307,1977,1.0,1.0,2.0,Childish Gambino - Redbone,Childish Gambino - Redbone
+330,2031,1.0,1.0,2.0,Chris Lane - For Her,Chris Lane - For Her
+356,2228,1.0,1.0,2.0,Cole Swindell - Middle Of A Memory,Cole Swindell - Middle of a Memory
+360,2356,1.0,1.0,2.0,DJ Drama - Wishing,DJ Drama - Wishing
+383,2366,1.0,1.0,2.0,DJ Luke Nasty - OTW,DJ Luke Nasty - OTW
+384,2373,1.0,1.0,2.0,DJ Snake - Let Me Love You,DJ Snake - Let Me Love You
+394,2438,1.0,1.0,2.0,Daddy Yankee - Shaky Shaky,Daddy Yankee - Shaky Shaky
+398,2461,1.0,1.0,2.0,Dan + Shay - From The Ground Up,Dan + Shay - From the Ground Up
+399,2463,1.0,1.0,2.0,Dan + Shay - How Not To,Dan + Shay - How Not To
+420,2636,1.0,1.0,2.0,Demi Lovato - Body Say,Demi Lovato - Body Say
+429,2673,1.0,1.0,2.0,Desiigner - Tiimmy Turner,Desiigner - Tiimmy Turner
+431,2689,1.0,1.0,2.0,Dierks Bentley - Black,Dierks Bentley - Black
+433,2687,1.0,1.0,2.0,Dierks Bentley - Different For Girls,Dierks Bentley - Different For Girls
+434,2692,1.0,1.0,2.0,Dierks Bentley - Somewhere On A Beach,Dierks Bentley - Somewhere On A Beach
+446,2840,1.0,1.0,2.0,Drake - 9,Drake - 9
+454,2848,1.0,1.0,2.0,Drake - Controlla,Drake - Controlla
+461,2823,1.0,1.0,2.0,Drake - Faithful,Drake - Faithful
+463,2854,1.0,1.0,2.0,Drake - Feel No Ways,Drake - Feel No Ways
+466,2856,1.0,1.0,2.0,Drake - Fire & Desire,Drake - Fire & Desire
+471,2808,1.0,1.0,2.0,Drake - Grammys,Drake - Grammys
+474,2861,1.0,1.0,2.0,Drake - Hype,Drake - Hype
+482,2866,1.0,1.0,2.0,Drake - Keep The Family Close,Drake - Keep The Family Close
+497,2832,1.0,1.0,2.0,Drake - One Dance,Drake - One Dance
+503,2880,1.0,1.0,2.0,Drake - Redemption,Drake - Redemption
+511,2885,1.0,1.0,2.0,Drake - Still Here,Drake - Still Here
+513,2887,1.0,1.0,2.0,Drake - Summer Sixteen,Drake - Summer Sixteen
+518,2827,1.0,1.0,2.0,Drake - Too Good,Drake - Too Good
+520,2896,1.0,1.0,2.0,Drake - U With Me?,Drake - U With Me?
+522,2897,1.0,1.0,2.0,Drake - Views,Drake - Views
+523,2898,1.0,1.0,2.0,Drake - Weston Road Flows,Drake - Weston Road Flows
+524,2822,1.0,1.0,2.0,Drake - With You,Drake - With You
+536,2921,1.0,1.0,2.0,Dreezy - Body,Dreezy - Body
+545,2962,1.0,1.0,2.0,Dwayne Johnson - You're Welcome,Dwayne Johnson - You're Welcome
+606,3290,1.0,1.0,2.0,Fat Joe - All The Way Up,Fat Joe - All The Way Up
+612,3318,1.0,1.0,2.0,Fetty Wap - Wake Up,Fetty Wap - Wake Up
+615,3327,1.0,1.0,2.0,Fifth Harmony - That's My Girl,Fifth Harmony - That's My Girl
+627,3387,1.0,1.0,2.0,"Florida Georgia Line - God, Your Mama, And Me","Florida Georgia Line - God, Your Mama, And Me"
+628,3392,1.0,1.0,2.0,Florida Georgia Line - H.O.L.Y.,Florida Georgia Line - H.O.L.Y.
+629,3388,1.0,1.0,2.0,Florida Georgia Line - May We All,Florida Georgia Line - May We All
+631,3397,1.0,1.0,2.0,Florida Georgia Line - Smooth,Florida Georgia Line - Smooth
+637,3448,1.0,1.0,2.0,Frank Ocean - Ivy,Frank Ocean - Ivy
+638,3451,1.0,1.0,2.0,Frank Ocean - Nights,Frank Ocean - Nights
+639,3452,1.0,1.0,2.0,Frank Ocean - Nikes,Frank Ocean - Nikes
+640,3459,1.0,1.0,2.0,Frank Ocean - Solo,Frank Ocean - Solo
+676,3586,1.0,1.0,2.0,Future - Wicked,Future - Wicked
+697,3646,1.0,1.0,2.0,Galantis - No Money,Galantis - No Money
+704,3776,1.0,1.0,2.0,Granger Smith - If The Boot Fits,Granger Smith - If the Boot Fits
+711,3848,1.0,1.0,2.0,Gucci Mane - Back On Road,Gucci Mane - Back On Road
+718,3906,1.0,1.0,2.0,Gwen Stefani - Make Me Like You,Gwen Stefani - Make Me Like You
+725,3948,1.0,1.0,2.0,Hailee Steinfeld - Starving,Hailee Steinfeld - Starving
+745,4224,1.0,1.0,2.0,Iggy Azalea - Team,Iggy Azalea - Team
+760,4344,1.0,1.0,2.0,J. Cole - Deja Vu,J. Cole - Deja Vu
+761,4362,1.0,1.0,2.0,J. Cole - Everybody Dies,J. Cole - everybody dies
+762,4345,1.0,1.0,2.0,J. Cole - False Prophets,J. Cole - False Prophets
+763,4346,1.0,1.0,2.0,J. Cole - Foldin Clothes,J. Cole - Foldin Clothes
+764,4347,1.0,1.0,2.0,J. Cole - For Whom The Bell Tolls,J. Cole - For Whom The Bell Tolls
+772,4354,1.0,1.0,2.0,J. Cole - Neighbors,J. Cole - Neighbors
+776,4360,1.0,1.0,2.0,J. Cole - Ville Mentality,J. Cole - Ville Mentality
+792,4448,1.0,1.0,2.0,Jake Owen - American Country Love Song,Jake Owen - American Country Love Song
+798,4475,1.0,1.0,2.0,James Arthur - Say You Won't Let Go,James Arthur - Say You Won't Let Go
+805,4518,1.0,1.0,2.0,Jason Aldean - A Little More Summertime,Jason Aldean - A Little More Summertime
+806,4519,1.0,1.0,2.0,Jason Aldean - Any Ol' Barstool,Jason Aldean - Any Ol' Barstool
+810,4522,1.0,1.0,2.0,Jason Aldean - Lights Come On,Jason Aldean - Lights Come On
+812,4524,1.0,1.0,2.0,Jason Aldean - They Don't Know,Jason Aldean - They Don't Know
+817,4532,1.0,1.0,2.0,Jason Derulo - If It Ain't Love,Jason Derulo - If It Ain't Love
+822,4600,1.0,1.0,2.0,Jennifer Lopez - Ain't Your Mama,Jennifer Lopez - Ain't Your Mama
+833,4719,1.0,1.0,2.0,John Legend - Love Me Now,John Legend - Love Me Now
+835,4727,1.0,1.0,2.0,John Mayer - Love On The Weekend,John Mayer - Love on the Weekend
+839,4798,1.0,1.0,2.0,Jon Pardi - Dirt On My Boots,Jon Pardi - Dirt On My Boots
+841,4801,1.0,1.0,2.0,Jon Pardi - Heartache On The Dance Floor,Jon Pardi - Heartache On The Dance Floor
+842,4802,1.0,1.0,2.0,Jon Pardi - Night Shift,Jon Pardi - Night Shift
+883,5041,1.0,1.0,2.0,Justin Moore - Somebody Else Will,Justin Moore - Somebody Else Will
+910,5207,1.0,1.0,2.0,Kanye West - FML,Kanye West - FML
+912,5209,1.0,1.0,2.0,Kanye West - Famous,Kanye West - Famous
+913,5211,1.0,1.0,2.0,Kanye West - Feedback,Kanye West - Feedback
+919,5227,1.0,1.0,2.0,Kanye West - Ultralight Beam,Kanye West - Ultralight Beam
+921,5229,1.0,1.0,2.0,Kanye West - Waves,Kanye West - Waves
+929,5258,1.0,1.0,2.0,Katy Perry - Rise,Katy Perry - Rise
+933,5273,1.0,1.0,2.0,Kehlani - Gangsta,Kehlani - Gangsta
+935,5284,1.0,1.0,2.0,Keith Urban - Blue Ain't Your Color,Keith Urban - Blue Ain't Your Color
+940,5282,1.0,1.0,2.0,Keith Urban - The Fighter,Keith Urban - The Fighter
+941,5289,1.0,1.0,2.0,Keith Urban - Wasted Time,Keith Urban - Wasted Time
+979,5351,1.0,1.0,2.0,Kent Jones - Don't Mind,Kent Jones - Don't Mind
+1037,5705,1.0,1.0,2.0,Lady Gaga - Million Reasons,Lady Gaga - Million Reasons
+1038,5706,1.0,1.0,2.0,Lady Gaga - Perfect Illusion,Lady Gaga - Perfect Illusion
+1099,6121,1.0,1.0,2.0,Lil Uzi Vert - Money Longer,Lil Uzi Vert - Money Longer
+1111,6150,1.0,1.0,2.0,Lil Uzi Vert - You Was Right,Lil Uzi Vert - You Was Right
+1147,6227,1.0,1.0,2.0,Little Mix - Shout Out To My Ex,Little Mix - Shout Out to My Ex
+1157,6276,1.0,1.0,2.0,Logic - Flexicution,Logic - Flexicution
+1199,6539,1.0,1.0,2.0,MAX - Lights Down Low,MAX - Lights Down Low
+1199,6540,1.0,1.0,2.0,MAX - Lights Down Low,MAX - Lights Down Low
+1230,6785,1.0,1.0,2.0,Marian Hill - Down,Marian Hill - Down
+1239,6828,1.0,1.0,2.0,Marshmello - Alone,Marshmello - Alone
+1249,6831,1.0,1.0,2.0,Martin Garrix - In The Name Of Love,Martin Garrix - In the Name of Love
+1259,6929,1.0,1.0,2.0,Meek Mill - Blue Notes,Meek Mill - Blue Notes
+1336,7123,1.0,1.0,2.0,Miranda Lambert - Vice,Miranda Lambert - Vice
+1363,7500,1.0,1.0,2.0,Niall Horan - This Town,Niall Horan - This Town
+1366,7505,1.0,1.0,2.0,Nick Jonas - Close,Nick Jonas - Close
+1383,7515,1.0,1.0,2.0,Nicki Minaj - Black Barbies,Nicki Minaj - Black Barbies
+1421,7731,1.0,1.0,2.0,OneRepublic - Kids,OneRepublic - Kids
+1422,7736,1.0,1.0,2.0,OneRepublic - Wherever I Go,OneRepublic - Wherever I Go
+1437,7791,1.0,1.0,2.0,PARTYNEXTDOOR - Not Nice,PARTYNEXTDOOR - Not Nice
+1439,7818,1.0,1.0,2.0,Panic! At The Disco - Bohemian Rhapsody,Panic! At The Disco - Bohemian Rhapsody
+1473,8144,1.0,1.0,2.0,Post Malone - Congratulations,Post Malone - Congratulations
+1474,8139,1.0,1.0,2.0,Post Malone - Deja Vu,Post Malone - Deja Vu
+1475,8163,1.0,1.0,2.0,Post Malone - Go Flex,Post Malone - Go Flex
+1476,8166,1.0,1.0,2.0,Post Malone - I Fall Apart,Post Malone - I Fall Apart
+1510,8307,1.0,1.0,2.0,Rae Sremmurd - Black Beatles,Rae Sremmurd - Black Beatles
+1512,8314,1.0,1.0,2.0,Rae Sremmurd - Look Alive,Rae Sremmurd - Look Alive
+1514,8317,1.0,1.0,2.0,Rae Sremmurd - Swang,Rae Sremmurd - Swang
+1522,8421,1.0,1.0,2.0,Red Hot Chili Peppers - Dark Necessities,Red Hot Chili Peppers - Dark Necessities
+1532,8523,1.0,1.0,2.0,Rihanna - Love On The Brain,Rihanna - Love On The Brain
+1533,8524,1.0,1.0,2.0,Rihanna - Needed Me,Rihanna - Needed Me
+1534,8527,1.0,1.0,2.0,Rihanna - Sex With Me,Rihanna - Sex With Me
+1535,8514,1.0,1.0,2.0,Rihanna - Work,Rihanna - Work
+1583,8993,1.0,1.0,2.0,Shakira - Try Everything,Shakira - Try Everything
+1598,9093,1.0,1.0,2.0,Sia - Cheap Thrills,Sia - Cheap Thrills
+1600,9102,1.0,1.0,2.0,Sia - The Greatest,Sia - The Greatest
+1647,9703,1.0,1.0,2.0,The Chainsmokers - All We Know,The Chainsmokers - All We Know
+1648,9699,1.0,1.0,2.0,The Chainsmokers - Closer,The Chainsmokers - Closer
+1649,9696,1.0,1.0,2.0,The Chainsmokers - Don't Let Me Down,The Chainsmokers - Don't Let Me Down
+1664,9798,1.0,1.0,2.0,The Lumineers - Ophelia,The Lumineers - Ophelia
+1667,9889,1.0,1.0,2.0,The Weeknd - All I Know,The Weeknd - All I Know
+1668,9906,1.0,1.0,2.0,The Weeknd - Attention,The Weeknd - Attention
+1672,9910,1.0,1.0,2.0,The Weeknd - Die For You,The Weeknd - Die For You
+1675,9885,1.0,1.0,2.0,The Weeknd - I Feel It Coming,The Weeknd - I Feel It Coming
+1679,9919,1.0,1.0,2.0,The Weeknd - Love To Lay,The Weeknd - Love To Lay
+1680,9922,1.0,1.0,2.0,The Weeknd - Nothing Without You,The Weeknd - Nothing Without You
+1681,9924,1.0,1.0,2.0,The Weeknd - Ordinary Life,The Weeknd - Ordinary Life
+1682,9925,1.0,1.0,2.0,The Weeknd - Party Monster,The Weeknd - Party Monster
+1686,9928,1.0,1.0,2.0,The Weeknd - Reminder,The Weeknd - Reminder
+1687,9929,1.0,1.0,2.0,The Weeknd - Rockin',The Weeknd - Rockin’
+1688,9932,1.0,1.0,2.0,The Weeknd - Secrets,The Weeknd - Secrets
+1690,9893,1.0,1.0,2.0,The Weeknd - Sidewalks,The Weeknd - Sidewalks
+1692,9886,1.0,1.0,2.0,The Weeknd - Starboy,The Weeknd - Starboy
+1693,9898,1.0,1.0,2.0,The Weeknd - Stargirl Interlude,The Weeknd - Stargirl Interlude
+1696,9938,1.0,1.0,2.0,The Weeknd - True Colors,The Weeknd - True Colors
+1709,9976,1.0,1.0,2.0,Thomas Rhett - Star Of The Show,Thomas Rhett - Star Of The Show
+1723,10109,1.0,1.0,2.0,Tove Lo - Cool Girl,Tove Lo - Cool Girl
+1733,10148,1.0,1.0,2.0,Travis Scott - Goosebumps,Travis Scott - goosebumps
+1770,10400,1.0,1.0,2.0,Ugly God - Water,Ugly God - Water
+1819,10759,1.0,1.0,2.0,YG - Why You Always Hatin?,YG - Why You Always Hatin?
+1826,10821,1.0,1.0,2.0,Yo Gotti - Down In The DM,Yo Gotti - Down In the DM
+1832,10846,1.0,1.0,2.0,Young M.A - OOOUUU,Young M.A - OOOUUU
+1837,10874,1.0,1.0,2.0,Young Thug - Digits,Young Thug - Digits
+1839,10881,1.0,1.0,2.0,Young Thug - With Them,Young Thug - With Them
+1840,10882,1.0,1.0,2.0,Young Thug - Wyclef Jean,Young Thug - Wyclef Jean
+86,544,1.0,1.0,2.0,Ali Gatie - It's You,Ali Gatie - It's You
+92,694,1.0,1.0,2.0,Anuel AA - Secreto,Anuel AA - Secreto
+94,745,1.0,1.0,2.0,Ariana Grande - 7 Rings,Ariana Grande - 7 rings
+97,767,1.0,1.0,2.0,Ariana Grande - Bloodline,Ariana Grande - bloodline
+105,773,1.0,1.0,2.0,Ariana Grande - Ghostin,Ariana Grande - ghostin
+113,756,1.0,1.0,2.0,Ariana Grande - NASA,Ariana Grande - NASA
+128,868,1.0,1.0,2.0,Aventura - Inmortal,Aventura - Inmortal
+129,875,1.0,1.0,2.0,Avicii - Heaven,Avicii - Heaven
+133,923,1.0,1.0,2.0,BLACKPINK - Kill This Love,BLACKPINK - Kill This Love
+138,1106,1.0,1.0,2.0,Bad Bunny - Callaita,Bad Bunny - Callaita
+142,1218,1.0,1.0,2.0,Bazzi - Paradise,Bazzi - Paradise
+145,1253,1.0,1.0,2.0,Bebe Rexha - Last Hurrah,Bebe Rexha - Last Hurrah
+180,1379,1.0,1.0,2.0,Billie Eilish - 8,Billie Eilish - 8
+186,1397,1.0,1.0,2.0,Billie Eilish - Ilomilo,Billie Eilish - ilomilo
+188,1401,1.0,1.0,2.0,Billie Eilish - My Strange Addiction,Billie Eilish - my strange addiction
+203,1455,1.0,1.0,2.0,Blake Shelton - God's Country,Blake Shelton - God's Country
+208,1460,1.0,1.0,2.0,Blanco Brown - The Git Up,Blanco Brown - The Git Up
+237,1646,1.0,1.0,2.0,Bryce Vine - La La Land,Bryce Vine - La La Land
+273,1834,1.0,1.0,2.0,Cardi B - Press,Cardi B - Press
+277,1821,1.0,1.0,2.0,Cardi B - Please Me,Cardi B - Please Me
+322,2015,1.0,1.0,2.0,Chris Brown - Undecided,Chris Brown - Undecided
+341,2096,1.0,1.0,2.0,Chris Young - Raised On Country,Chris Young - Raised on Country
+391,2412,1.0,1.0,2.0,DaBaby - Suge,DaBaby - Suge
+395,2426,1.0,1.0,2.0,Daddy Yankee - Con Calma,Daddy Yankee - Con Calma
+600,3240,1.0,1.0,2.0,FLETCHER - Undrunk,FLETCHER - Undrunk
+619,3336,1.0,1.0,2.0,Five Finger Death Punch - Blue On Black,Five Finger Death Punch - Blue on Black
+653,3563,1.0,1.0,2.0,Future - Crushed Up,Future - Crushed Up
+729,3991,1.0,1.0,2.0,Halsey - Nightmare,Halsey - Nightmare
+834,4725,1.0,1.0,2.0,John Mayer - I Guess I Just Feel Like,John Mayer - I Guess I Just Feel Like
+836,4767,1.0,1.0,2.0,Joji - Sanctuary,Joji - Sanctuary
+844,4811,1.0,1.0,2.0,Jonas Brothers - Cool,Jonas Brothers - Cool
+845,4815,1.0,1.0,2.0,Jonas Brothers - Only Human,Jonas Brothers - Only Human
+846,4817,1.0,1.0,2.0,Jonas Brothers - Sucker,Jonas Brothers - Sucker
+853,4883,1.0,1.0,2.0,Joyner Lucas - Isis,Joyner Lucas - Isis
+856,4929,1.0,1.0,2.0,Juice WRLD - Empty,Juice WRLD - Empty
+857,4931,1.0,1.0,2.0,Juice WRLD - Fast,Juice WRLD - Fast
+858,4934,1.0,1.0,2.0,Juice WRLD - Flaws And Sins,Juice WRLD - Flaws And Sins
+859,4936,1.0,1.0,2.0,Juice WRLD - Hear Me Calling,Juice WRLD - Hear Me Calling
+864,4952,1.0,1.0,2.0,Juice WRLD - Maze,Juice WRLD - Maze
+865,4957,1.0,1.0,2.0,Juice WRLD - Robbery,Juice WRLD - Robbery
+928,5257,1.0,1.0,2.0,Katy Perry - Never Really Over,Katy Perry - Never Really Over
+994,5396,1.0,1.0,2.0,Khalid - Talk,Khalid - Talk
+1032,5693,1.0,1.0,2.0,Lady Antebellum - What If I Never Get Over You,Lady A - What If I Never Get Over You
+1064,5897,1.0,1.0,2.0,Lil Baby - Out The Mud,Lil Baby - Out The Mud
+1077,5936,1.0,1.0,2.0,Lil Dicky - Earth,Lil Dicky - Earth
+1081,5981,1.0,1.0,2.0,Lil Nas X - Panini,Lil Nas X - Panini
+1082,5975,1.0,1.0,2.0,Lil Nas X - Rodeo,Lil Nas X - Rodeo
+1083,5980,1.0,1.0,2.0,Lil Nas - Old Town Road,Lil Nas X - Old Town Road
+1092,6043,1.0,1.0,2.0,Lil Skies - I,Lil Skies - I
+1103,6135,1.0,1.0,2.0,Lil Uzi Vert - Sanguine Paradise,Lil Uzi Vert - Sanguine Paradise
+1105,6143,1.0,1.0,2.0,Lil Uzi Vert - That's A Rack,Lil Uzi Vert - That's a Rack
+1149,6241,1.0,1.0,2.0,Lizzo - Juice,Lizzo - Juice
+1154,6273,1.0,1.0,2.0,Logic - Confessions Of A Dangerous Mind,Logic - Confessions of a Dangerous Mind
+1158,6261,1.0,1.0,2.0,Logic - Homicide,Logic - Homicide
+1160,6279,1.0,1.0,2.0,Logic - Keanu Reeves,Logic - Keanu Reeves
+1183,6440,1.0,1.0,2.0,Luke Bryan - Knockin' Boots,Luke Bryan - Knockin' Boots
+1191,6458,1.0,1.0,2.0,Luke Combs - Beer Never Broke My Heart,Luke Combs - Beer Never Broke My Heart
+1192,6466,1.0,1.0,2.0,Luke Combs - Even Though I'm Leaving,Luke Combs - Even Though I'm Leaving
+1200,6568,1.0,1.0,2.0,Mabel - Don't Call Me Up,Mabel - Don't Call Me Up
+1220,6741,1.0,1.0,2.0,Maluma - HP,Maluma - HP
+1224,6776,1.0,1.0,2.0,Maren Morris - GIRL,Maren Morris - GIRL
+1240,6818,1.0,1.0,2.0,Marshmello - Here With Me,Marshmello - Here With Me
+1241,6815,1.0,1.0,2.0,Marshmello - Rescue Me,Marshmello - Rescue Me
+1245,6822,1.0,1.0,2.0,Marshmello - One Thing Right,Marshmello - One Thing Right
+1333,7103,1.0,1.0,2.0,Miley Cyrus - Mother's Daughter,Miley Cyrus - Mother's Daughter
+1353,7388,1.0,1.0,2.0,NF - The Search,NF - The Search
+1354,7417,1.0,1.0,2.0,NLE Choppa - Shotta Flow,NLE Choppa - Shotta Flow
+1374,7520,1.0,1.0,2.0,Nicki Minaj - MEGATRON,Nicki Minaj - MEGATRON
+1387,7528,1.0,1.0,2.0,Nicky Jam - Te Robare,Nicky Jam - Te Robaré
+1424,7769,1.0,1.0,2.0,Ozuna - Amor Genuino,Ozuna - Amor Genuino
+1427,7770,1.0,1.0,2.0,Ozuna - Baila Baila Baila,Ozuna - Baila Baila Baila
+1434,7784,1.0,1.0,2.0,P!nk - Walk Me Home,P!nk - Walk Me Home
+1565,8914,1.0,1.0,2.0,ScHoolboy Q - Numb Numb Juice,ScHoolboy Q - Numb Numb Juice
+1571,8945,1.0,1.0,2.0,Sech - Otro Trago,Sech - Otro Trago
+1585,9016,1.0,1.0,2.0,Shawn Mendes - If I Can't Have You,Shawn Mendes - If I Can't Have You
+1593,9008,1.0,1.0,2.0,Shawn Mendes - Senorita,Shawn Mendes - Señorita
+1636,9571,1.0,1.0,2.0,Taylor Swift - You Need To Calm Down,Taylor Swift - You Need To Calm Down
+1659,9691,1.0,1.0,2.0,The Chainsmokers - Who Do You Love,The Chainsmokers - Who Do You Love
+1660,9692,1.0,1.0,2.0,The Chainsmokers - Call You Mine,The Chainsmokers - Call You Mine
+1706,9971,1.0,1.0,2.0,Thomas Rhett - Look What God Gave Her,Thomas Rhett - Look What God Gave Her
+1806,10726,1.0,1.0,2.0,XXXTENTACION - Sauce!,XXXTENTACION - Sauce!
+1821,10768,1.0,1.0,2.0,YK Osiris - Worth It,YK Osiris - Worth It
+1873,11062,1.0,1.0,2.0,Zedd - 365,Zedd - 365
+7,162,1.0,1.0,2.0,2 Chainz - Watch Out,2 Chainz - Watch Out
+30,227,1.0,1.0,2.0,5 Seconds Of Summer - Jet Black Heart,5 Seconds of Summer - Jet Black Heart
+31,230,1.0,1.0,2.0,5 Seconds Of Summer - She's Kinda Hot,5 Seconds of Summer - She's Kinda Hot
+62,318,1.0,1.0,2.0,A Thousand Horses - Smoke,A Thousand Horses - Smoke
+72,436,1.0,1.0,2.0,Adam Lambert - Ghost Town,Adam Lambert - Ghost Town
+75,439,1.0,1.0,2.0,Adele - Hello,Adele - Hello
+79,490,1.0,1.0,2.0,Alan Walker - Faded,Alan Walker - Faded
+82,511,1.0,1.0,2.0,Alessia Cara - Here,Alessia Cara - Here
+84,518,1.0,1.0,2.0,Alessia Cara - Scars To Your Beautiful,Alessia Cara - Scars To Your Beautiful
+104,749,1.0,1.0,2.0,Ariana Grande - Focus,Ariana Grande - Focus
+148,1263,1.0,1.0,2.0,Belly - Might Not,Belly - Might Not
+149,1275,1.0,1.0,2.0,Ben Rector - Brand New,Ben Rector - Brand New
+166,1340,1.0,1.0,2.0,Big Sean - All Your Fault,Big Sean - All Your Fault
+167,1334,1.0,1.0,2.0,Big Sean - Blessings,Big Sean - Blessings
+174,1339,1.0,1.0,2.0,Big Sean - One Man Can Change The World,Big Sean - One Man Can Change The World
+176,1332,1.0,1.0,2.0,Big Sean - Play No Games,Big Sean - Play No Games
+196,1412,1.0,1.0,2.0,Billy Currington - Do I Make You Wanna,Billy Currington - Do I Make You Wanna
+197,1414,1.0,1.0,2.0,Billy Currington - It Don't Hurt Like It Used To,Billy Currington - It Don't Hurt Like It Used To
+216,1520,1.0,1.0,2.0,Breaking Benjamin - Failure,Breaking Benjamin - Failure
+217,1552,1.0,1.0,2.0,Brett Eldredge - Drunk On Your Love,Brett Eldredge - Drunk on Your Love
+218,1554,1.0,1.0,2.0,Brett Eldredge - Lose My Mind,Brett Eldredge - Lose My Mind
+221,1558,1.0,1.0,2.0,Brett Eldredge - Wanna Be That Song,Brett Eldredge - Wanna Be That Song
+229,1593,1.0,1.0,2.0,Britney Spears - Pretty Girls,Britney Spears - Pretty Girls
+231,1621,1.0,1.0,2.0,Brothers Osborne - Stay A Little Longer,Brothers Osborne - Stay A Little Longer
+239,1659,1.0,1.0,2.0,Bryson Tiller - Exchange,Bryson Tiller - Exchange
+243,1672,1.0,1.0,2.0,Bryson Tiller - Sorry Not Sorry,Bryson Tiller - Sorry Not Sorry
+254,1776,1.0,1.0,2.0,Calvin Harris - How Deep Is Your Love,Calvin Harris - How Deep Is Your Love
+257,1787,1.0,1.0,2.0,Cam - Burning House,Cam - Burning House
+281,1851,1.0,1.0,2.0,Carly Rae Jepsen - I Really Like You,Carly Rae Jepsen - I Really Like You
+285,1863,1.0,1.0,2.0,Carrie Underwood - Heartbeat,Carrie Underwood - Heartbeat
+288,1864,1.0,1.0,2.0,Carrie Underwood - Smoke Break,Carrie Underwood - Smoke Break
+315,2011,1.0,1.0,2.0,Chris Brown - Liquor,Chris Brown - Liquor
+324,2016,1.0,1.0,2.0,Chris Brown - Zero,Chris Brown - Zero
+325,2002,1.0,1.0,2.0,Chris Brown - Ayo,Chris Brown - Ayo
+326,2019,1.0,1.0,2.0,Chris Janson - Buy Me A Boat,Chris Janson - Buy Me a Boat
+335,2059,1.0,1.0,2.0,Chris Stapleton - Nobody To Blame,Chris Stapleton - Nobody To Blame
+336,2063,1.0,1.0,2.0,Chris Stapleton - Parachute,Chris Stapleton - Parachute
+337,2068,1.0,1.0,2.0,Chris Stapleton - Tennessee Whiskey,Chris Stapleton - Tennessee Whiskey
+338,2071,1.0,1.0,2.0,Chris Stapleton - Traveller,Chris Stapleton - Traveller
+344,2133,1.0,1.0,2.0,Ciara - I Bet,Ciara - I Bet
+352,2220,1.0,1.0,2.0,Coldplay - Adventure Of A Lifetime,Coldplay - Adventure of a Lifetime
+414,2554,1.0,1.0,2.0,Dawin - Dessert,Dawin - Dessert
+421,2638,1.0,1.0,2.0,Demi Lovato - Confident,Demi Lovato - Confident
+422,2639,1.0,1.0,2.0,Demi Lovato - Cool For The Summer,Demi Lovato - Cool for the Summer
+437,2716,1.0,1.0,2.0,Disclosure - Omen,Disclosure - Omen
+438,2725,1.0,1.0,2.0,Disturbed - The Sound Of Silence,Disturbed - The Sound of Silence
+439,2793,1.0,1.0,2.0,Dove Cameron - If Only,Dove Cameron - If Only
+440,2787,1.0,1.0,2.0,Dove Cameron - Rotten To The Core,Dove Cameron - Rotten to the Core
+441,2834,1.0,1.0,2.0,Drake - 10 Bands,Drake - 10 Bands
+442,2835,1.0,1.0,2.0,Drake - 30 For 30 Freestyle,Drake - 30 for 30 Freestyle
+444,2837,1.0,1.0,2.0,Drake - 6 Man,Drake - 6 Man
+448,2841,1.0,1.0,2.0,Drake - Back To Back,Drake - Back To Back
+460,2852,1.0,1.0,2.0,Drake - Energy,Drake - Energy
+483,2867,1.0,1.0,2.0,Drake - Know Yourself,Drake - Know Yourself
+484,2868,1.0,1.0,2.0,Drake - Legend,Drake - Legend
+492,2873,1.0,1.0,2.0,Drake - No Tellin',Drake - No Tellin'
+495,2876,1.0,1.0,2.0,Drake - Now & Forever,Drake - Now & Forever
+501,2820,1.0,1.0,2.0,Drake - Preach,Drake - Preach
+504,2881,1.0,1.0,2.0,Drake - Right Hand,Drake - Right Hand
+521,2818,1.0,1.0,2.0,Drake - Used To,Drake - Used To
+525,2803,1.0,1.0,2.0,Drake - Big Rings,Drake - Big Rings
+526,2804,1.0,1.0,2.0,Drake - Change Locations,Drake - Change Locations
+527,2806,1.0,1.0,2.0,Drake - Diamonds Dancing,Drake - Diamonds Dancing
+528,2807,1.0,1.0,2.0,Drake - Digital Dash,Drake - Digital Dash
+529,2809,1.0,1.0,2.0,Drake - I'm The Plug,Drake - I'm The Plug
+530,2810,1.0,1.0,2.0,Drake - Jumpman,Drake - Jumpman
+531,2811,1.0,1.0,2.0,Drake - Live From The Gutter,Drake - Live From The Gutter
+532,2812,1.0,1.0,2.0,Drake - Plastic Bag,Drake - Plastic Bag
+533,2813,1.0,1.0,2.0,Drake - Scholarships,Drake - Scholarships
+570,3100,1.0,1.0,2.0,Ellie Goulding - On My Mind,Ellie Goulding - On My Mind
+578,3116,1.0,1.0,2.0,Eminem - Kings Never Die,Eminem - Kings Never Die
+582,3131,1.0,1.0,2.0,Eminem - Phenomenal,Eminem - Phenomenal
+596,3167,1.0,1.0,2.0,Eric Church - Mr. Misunderstood,Eric Church - Mr. Misunderstood
+597,3168,1.0,1.0,2.0,Eric Church - Record Year,Eric Church - Record Year
+598,3169,1.0,1.0,2.0,Eric Church - Round Here Buzz,Eric Church - Round Here Buzz
+601,3251,1.0,1.0,2.0,Fall Out Boy - Irresistible,Fall Out Boy - Irresistible
+601,3257,1.0,1.0,2.0,Fall Out Boy - Irresistible,Fall Out Boy - Irresistible
+602,3263,1.0,1.0,2.0,Fall Out Boy - Uma Thurman,Fall Out Boy - Uma Thurman
+608,3313,1.0,1.0,2.0,Fetty Wap - Again,Fetty Wap - Again
+611,3316,1.0,1.0,2.0,Fetty Wap - RGF Island,Fetty Wap - RGF Island
+623,3380,1.0,1.0,2.0,Flo Rida - My House,Flo Rida - My House
+625,3385,1.0,1.0,2.0,Florence + The Machine - What Kind Of Man,Florence + The Machine - What Kind Of Man
+650,3562,1.0,1.0,2.0,Future - Blow A Bag,Future - Blow a Bag
+661,3568,1.0,1.0,2.0,Future - Jersey,Future - Jersey
+671,3581,1.0,1.0,2.0,Future - Stick Talk,Future - Stick Talk
+728,3990,1.0,1.0,2.0,Halsey - New Americana,Halsey - New Americana
+749,4246,1.0,1.0,2.0,Imagine Dragons - Roots,Imagine Dragons - Roots
+800,4502,1.0,1.0,2.0,Jana Kramer - I Got The Boy,Jana Kramer - I Got the Boy
+802,4504,1.0,1.0,2.0,Janelle Monae - Yoga,Janelle Monáe - Yoga
+816,4531,1.0,1.0,2.0,Jason Derulo - Get Ugly,Jason Derulo - Get Ugly
+819,4535,1.0,1.0,2.0,Jason Derulo - Want To Want Me,Jason Derulo - Want to Want Me
+826,4601,1.0,1.0,2.0,Jeremih - Planez,Jeremih - Planez
+827,4630,1.0,1.0,2.0,Jess Glynne - Hold My Hand,Jess Glynne - Hold My Hand
+843,4805,1.0,1.0,2.0,Jonas Blue - Fast Car,Jonas Blue - Fast Car
+868,5023,1.0,1.0,2.0,Justin Bieber - Been You,Justin Bieber - Been You
+869,5024,1.0,1.0,2.0,Justin Bieber - Children,Justin Bieber - Children
+871,5027,1.0,1.0,2.0,Justin Bieber - Get Used To It,Justin Bieber - Get Used To It
+872,5028,1.0,1.0,2.0,Justin Bieber - I'll Show You,Justin Bieber - I'll Show You
+873,5029,1.0,1.0,2.0,Justin Bieber - Life Is Worth Living,Justin Bieber - Life Is Worth Living
+874,5030,1.0,1.0,2.0,Justin Bieber - Love Yourself,Justin Bieber - Love Yourself
+875,5031,1.0,1.0,2.0,Justin Bieber - Mark My Words,Justin Bieber - Mark My Words
+876,5012,1.0,1.0,2.0,Justin Bieber - No Pressure,Justin Bieber - No Pressure
+877,5020,1.0,1.0,2.0,Justin Bieber - No Sense,Justin Bieber - No Sense
+878,5033,1.0,1.0,2.0,Justin Bieber - Sorry,Justin Bieber - Sorry
+879,5015,1.0,1.0,2.0,Justin Bieber - The Feeling,Justin Bieber - The Feeling
+881,5034,1.0,1.0,2.0,Justin Bieber - What Do You Mean?,Justin Bieber - What Do You Mean?
+908,5201,1.0,1.0,2.0,Kanye West - All Day,Kanye West - All Day
+942,5291,1.0,1.0,2.0,Kelly Clarkson - Heartbeat Song,Kelly Clarkson - Heartbeat Song
+944,5293,1.0,1.0,2.0,Kelly Clarkson - Piece By Piece,Kelly Clarkson - Piece by Piece
+945,5297,1.0,1.0,2.0,Kelsea Ballerini - Dibs,Kelsea Ballerini - Dibs
+950,5317,1.0,1.0,2.0,Kendrick Lamar - Alright,Kendrick Lamar - Alright
+960,5307,1.0,1.0,2.0,Kendrick Lamar - Institutionalized,Kendrick Lamar - Institutionalized
+961,5329,1.0,1.0,2.0,Kendrick Lamar - King Kunta,Kendrick Lamar - King Kunta
+966,5334,1.0,1.0,2.0,Kendrick Lamar - The Blacker The Berry,Kendrick Lamar - The Blacker The Berry
+968,5308,1.0,1.0,2.0,Kendrick Lamar - These Walls,Kendrick Lamar - These Walls
+969,5309,1.0,1.0,2.0,Kendrick Lamar - Wesley's Theory,Kendrick Lamar - Wesley's Theory
+1005,5445,1.0,1.0,2.0,Kid Ink - Ride Out,Kid Ink - Ride Out
+1006,5449,1.0,1.0,2.0,Kid Rock - First Kiss,Kid Rock - First Kiss
+1008,5513,1.0,1.0,2.0,Kip Moore - I'm To Blame,Kip Moore - I'm To Blame
+1042,5733,1.0,1.0,2.0,Lana Del Rey - High By The Beach,Lana Del Rey - High By The Beach
+1146,6221,1.0,1.0,2.0,Little Mix - Black Magic,Little Mix - Black Magic
+1179,6437,1.0,1.0,2.0,Luke Bryan - Games,Luke Bryan - Games
+1180,6434,1.0,1.0,2.0,Luke Bryan - Home Alone Tonight,Luke Bryan - Home Alone Tonight
+1181,6438,1.0,1.0,2.0,"Luke Bryan - Huntin', Fishin' & Lovin' Every Day","Luke Bryan - Huntin', Fishin' And Lovin' Every Day"
+1182,6439,1.0,1.0,2.0,Luke Bryan - Kick The Dust Up,Luke Bryan - Kick The Dust Up
+1186,6443,1.0,1.0,2.0,Luke Bryan - Move,Luke Bryan - Move
+1187,6445,1.0,1.0,2.0,Luke Bryan - Strip It Down,Luke Bryan - Strip It Down
+1198,6510,1.0,1.0,2.0,LunchMoney Lewis - Bills,LunchMoney Lewis - Bills
+1201,6586,1.0,1.0,2.0,Mac Miller - 100 Grandkids,Mac Miller - 100 Grandkids
+1212,6675,1.0,1.0,2.0,Maddie - Fly,Maddie & Tae - Fly
+1217,6716,1.0,1.0,2.0,Major Lazer - Powerful,Major Lazer - Powerful
+1270,6930,1.0,1.0,2.0,Meek Mill - Monster,Meek Mill - Monster
+1343,7251,1.0,1.0,2.0,Mumford - Believe,Mumford & Sons - Believe
+1367,7510,1.0,1.0,2.0,Nick Jonas - Levels,Nick Jonas - Levels
+1380,7514,1.0,1.0,2.0,Nicki Minaj - Truffle Butter,Nicki Minaj - Truffle Butter
+1403,7669,1.0,1.0,2.0,Old Dominion - Break Up With Him,Old Dominion - Break Up with Him
+1411,7711,1.0,1.0,2.0,One Direction - A.M.,One Direction - A.M.
+1412,7712,1.0,1.0,2.0,One Direction - Drag Me Down,One Direction - Drag Me Down
+1413,7715,1.0,1.0,2.0,One Direction - History,One Direction - History
+1415,7717,1.0,1.0,2.0,One Direction - If I Could Fly,One Direction - If I Could Fly
+1416,7718,1.0,1.0,2.0,One Direction - Infinity,One Direction - Infinity
+1417,7721,1.0,1.0,2.0,One Direction - Never Enough,One Direction - Never Enough
+1418,7722,1.0,1.0,2.0,One Direction - Olivia,One Direction - Olivia
+1419,7723,1.0,1.0,2.0,One Direction - Perfect,One Direction - Perfect
+1420,7724,1.0,1.0,2.0,One Direction - Temporary Fix,One Direction - Temporary Fix
+1451,7909,1.0,1.0,2.0,Pentatonix - Can't Sleep Love,Pentatonix - Can't Sleep Love
+1454,7970,1.0,1.0,2.0,Pia Mia - Do It Again,Pia Mia - Do It Again
+1511,8313,1.0,1.0,2.0,Rae Sremmurd - Come Get Her,Rae Sremmurd - Come Get Her
+1515,8318,1.0,1.0,2.0,Rae Sremmurd - This Could Be Us,Rae Sremmurd - This Could Be Us
+1528,8503,1.0,1.0,2.0,Rick Ross - Sorry,Rick Ross - Sorry
+1530,8516,1.0,1.0,2.0,Rihanna - American Oxygen,Rihanna - American Oxygen
+1536,8515,1.0,1.0,2.0,Rihanna - FourFiveSeconds,Rihanna - FourFiveSeconds
+1549,8686,1.0,1.0,2.0,Ruth B - Lost Boy,Ruth B. - Lost Boy
+1575,8957,1.0,1.0,2.0,Selena Gomez - Good For You,Selena Gomez - Good For You
+1578,8970,1.0,1.0,2.0,Selena Gomez - Same Old Love,Selena Gomez - Same Old Love
+1584,9014,1.0,1.0,2.0,Shawn Mendes - A Little Too Much,Shawn Mendes - A Little Too Much
+1588,9029,1.0,1.0,2.0,Shawn Mendes - Stitches,Shawn Mendes - Stitches
+1592,9007,1.0,1.0,2.0,Shawn Mendes - I Know What You Did Last Summer,Shawn Mendes - I Know What You Did Last Summer
+1626,9538,1.0,1.0,2.0,Taylor Swift - Bad Blood,Taylor Swift - Bad Blood
+1637,9589,1.0,1.0,2.0,Tech N9Ne - Hood Go Crazy,Tech N9ne - Hood Go Crazy
+1653,9704,1.0,1.0,2.0,The Chainsmokers - Roses,The Chainsmokers - Roses
+1666,9901,1.0,1.0,2.0,The Weeknd - Acquainted,The Weeknd - Acquainted
+1670,9909,1.0,1.0,2.0,The Weeknd - Can't Feel My Face,The Weeknd - Can't Feel My Face
+1671,9887,1.0,1.0,2.0,The Weeknd - Dark Times,The Weeknd - Dark Times
+1677,9916,1.0,1.0,2.0,The Weeknd - In The Night,The Weeknd - In The Night
+1678,9896,1.0,1.0,2.0,The Weeknd - Losers,The Weeknd - Losers
+1683,9897,1.0,1.0,2.0,The Weeknd - Prisoner,The Weeknd - Prisoner
+1685,9927,1.0,1.0,2.0,The Weeknd - Real Life,The Weeknd - Real Life
+1689,9933,1.0,1.0,2.0,The Weeknd - Shameless,The Weeknd - Shameless
+1694,9935,1.0,1.0,2.0,The Weeknd - Tell Your Friends,The Weeknd - Tell Your Friends
+1695,9936,1.0,1.0,2.0,The Weeknd - The Hills,The Weeknd - The Hills
+1702,9968,1.0,1.0,2.0,Thomas Rhett - Crash And Burn,Thomas Rhett - Crash and Burn
+1704,9969,1.0,1.0,2.0,Thomas Rhett - Die A Happy Man,Thomas Rhett - Die A Happy Man
+1712,10007,1.0,1.0,2.0,Tim McGraw - How I'll Always Be,Tim McGraw - How I'll Always Be
+1713,10008,1.0,1.0,2.0,Tim McGraw - Humble And Kind,Tim McGraw - Humble And Kind
+1717,10083,1.0,1.0,2.0,Tori Kelly - Hollow,Tori Kelly - Hollow
+1726,10140,1.0,1.0,2.0,Travis Scott - Antidote,Travis Scott - Antidote
+1745,10161,1.0,1.0,2.0,Trey Songz - Slow Motion,Trey Songz - Slow Motion
+1785,10653,1.0,1.0,2.0,Wiz Khalifa - Go Hard Or Go Home,Wiz Khalifa - Go Hard or Go Home
+1786,10679,1.0,1.0,2.0,X Ambassadors - Renegades,X Ambassadors - Renegades
+1787,10680,1.0,1.0,2.0,X Ambassadors - Unsteady,X Ambassadors - Unsteady
+1834,10871,1.0,1.0,2.0,Young Thug - Best Friend,Young Thug - Best Friend
+1836,10872,1.0,1.0,2.0,Young Thug - Check,Young Thug - Check
+1851,11020,1.0,1.0,2.0,Zac Brown Band - Beautiful Drug,Zac Brown Band - Beautiful Drug
+1853,11022,1.0,1.0,2.0,Zac Brown Band - Homegrown,Zac Brown Band - Homegrown
+1854,11023,1.0,1.0,2.0,Zac Brown Band - Loving You Easy,Zac Brown Band - Loving You Easy
+1869,11061,1.0,1.0,2.0,Zedd - Beautiful Now,Zedd - Beautiful Now
+1870,11065,1.0,1.0,2.0,Zedd - I Want You To Know,Zedd - I Want You To Know
